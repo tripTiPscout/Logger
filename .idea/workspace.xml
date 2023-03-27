@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e0632ee-be37-4e89-93db-d6215603fd90" name="Changes" comment="Logger -Initial commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/default.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Engine/InputParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Engine/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Enums/ReportLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementations/Appenders/AppenderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementations/Appenders/ConsoleAppender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementations/Appenders/FileAppender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementations/Factories/AppenderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementations/Factories/LayoutFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementations/Factories/LoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementations/File/LogFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementations/Layouts/SimpleLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementations/Layouts/XmlLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Implementations/Logger/MessageLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Appender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Layout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Logger.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NPnqcVTaxcZbwXztrJcC0XcIVj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Engine.Main" />
+      <module name="Logger" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e0632ee-be37-4e89-93db-d6215603fd90" name="Changes" comment="" />
+      <created>1679574781259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679574781259</updated>
+      <workItem from="1679574782540" duration="8099000" />
+      <workItem from="1679643313246" duration="32974000" />
+      <workItem from="1679838850506" duration="1204000" />
+      <workItem from="1679895644771" duration="12529000" />
+      <workItem from="1679909905599" duration="1234000" />
+      <workItem from="1679913074611" duration="590000" />
+      <workItem from="1679916615494" duration="628000" />
+      <workItem from="1679917302307" duration="1045000" />
+    </task>
+    <task id="LOCAL-00001" summary="Logger -Initial commit">
+      <created>1679912909384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679912909384</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Logger -Initial commit">
+      <created>1679916902141</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679916902141</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Logger -Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logger -Initial commit" />
+  </component>
+</project>
