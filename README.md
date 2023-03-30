@@ -36,7 +36,7 @@ Appender type: FileAppender, Layout type: XmlLayout, Report level: INFO, Message
 
 ```
 
-## Contributing
+## Development
 
 Peter Stoilkov.
 
